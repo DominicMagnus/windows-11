@@ -1,0 +1,3 @@
+# Fix weird keyboard layouts in Windows 11
+Get-WinUserLanguageList
+Set-WinUserLanguageList en-us, ru, uk

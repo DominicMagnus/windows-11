@@ -1,0 +1,5 @@
+# Fix Windows Defender Credential Guard does not allow using saved credentials
+
+cmdkey /generic:TERMSRV/<targetname> /user:<username> /pass:<password>
+# ex
+cmdkey /generic:TERMSRV/10.10.10.10 /user:alex /pass:qwerty

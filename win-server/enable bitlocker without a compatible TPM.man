@@ -1,0 +1,7 @@
+Open the Local Group Policy Editor: Press the Windows key + R, type "gpedit.msc" and press Enter.
+
+Navigate to Computer Configuration > Administrative Templates > Windows Components > BitLocker Drive Encryption > Operating System Drives.
+
+Locate the "Require additional authentication at startup" policy and double-click it.
+
+Change the policy setting to "Enabled" and select "Allow BitLocker without a compatible TPM".

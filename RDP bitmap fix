@@ -1,0 +1,14 @@
+# You need to copy these files
+C:\Windows\System32\mstsc.exe
+
+C:\Windows\System32\mstscax.dll
+
+C:\Windows\System32\en-US\mstsc.exe.mui
+
+C:\Windows\System32\en-US\mstscax.dll.mui"
+
+#(on Client PC)
+
+#Before You will change this files i sugest create copy of theme.
+#I coped from C:\windows.old this files (but when You usage Windows in another language this en-US directory be diferent - corectly to OS language) and
+#I cope files on Windows Recovery Mode (press and hold shift when You click reboot OS; on Recovery mode -> Trabelshoot -> Advanced options -> Command Prompt) - becouse when OS normaly works, this files is lock.
